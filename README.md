@@ -592,6 +592,55 @@ Termux
 
 
 
+
+
+
+
+🇬🇧 English
+
+Clone the repository
+
+git clone https://github.com/NoobHacker1243/wrs.git
+
+Enter the project directory
+
+cd wrs
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run WSR
+
+python3 wsr.py
+
+
+---
+
+🇮🇷 فارسی
+
+کلون کردن مخزن
+
+git clone https://github.com/NoobHacker1243/wrs.git
+
+ورود به پوشه پروژه
+
+cd wrs
+
+نصب وابستگی‌ها
+
+pip install -r requirements.txt
+
+اجرای WSR
+
+python3 wsr.py
+
+
+
+
+
+
+
 ---
 
 مجوز
